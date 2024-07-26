@@ -12,7 +12,7 @@ async function bootstrap() {
     {
       origin: ['http://localhost:5000',
         'http://localhost:3000', 
-        // "http://178.20.154.144:5000",
+        'https://danylousergit.github.io'
         // "http://178.20.154.144:5001",
       ], 
       credentials: true,
